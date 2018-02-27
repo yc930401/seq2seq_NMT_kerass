@@ -1,6 +1,6 @@
 # seq2seq_NMT_keras
 
-This is a sequence to sequence model for neural machine translation (english to french).
+This is a character level sequence-to-sequence model for neural machine translation (english to french).
 
 ## Introduction
 
